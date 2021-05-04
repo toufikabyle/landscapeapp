@@ -1,22 +1,34 @@
 {
+  "homepage": "http://toufikabyle.github.io/landscapeapp",
   "main": "node_modules/expo/AppEntry.js",
+  "name": "landscapeapp",
   "scripts": {
     "start": "expo start",
+    "deploy": "gh-pages -d web-build",
+    "predeploy": "expo build:web",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject"
   },
   "dependencies": {
+    "@igen/react-native-orientation": "^3.1.4",
     "expo": "~41.0.1",
+    "expo-linear-gradient": "^9.1.0",
     "expo-status-bar": "~1.0.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native-orientation": "^3.1.3",
+    "react-native-orientation-locker": "^1.2.0",
+    "react-native-screen-orientation": "^1.1.0",
+    "react-native-size-matters": "^0.4.0",
+    "react-native-web": "~0.13.12",
+    "screen-orientation-react": "^1.0.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0"
+    "@babel/core": "^7.9.0",
+    "gh-pages": "^3.1.0"
   },
   "private": true
 }

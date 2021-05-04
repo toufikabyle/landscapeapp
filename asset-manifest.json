@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/landscapeapp/static/js/app.a3f82523.chunk.js",
+    "app.js.map": "/landscapeapp/static/js/app.a3f82523.chunk.js.map",
+    "runtime~app.js": "/landscapeapp/static/js/runtime~app.7002c1c8.js",
+    "runtime~app.js.map": "/landscapeapp/static/js/runtime~app.7002c1c8.js.map",
+    "static/js/2.0ccf6b53.chunk.js": "/landscapeapp/static/js/2.0ccf6b53.chunk.js",
+    "static/js/2.0ccf6b53.chunk.js.map": "/landscapeapp/static/js/2.0ccf6b53.chunk.js.map",
+    "favicon-16.png": "/landscapeapp/favicon-16.png",
+    "favicon-32.png": "/landscapeapp/favicon-32.png",
+    "favicon.ico": "/landscapeapp/favicon.ico",
+    "index.html": "/landscapeapp/index.html",
+    "manifest.json": "/landscapeapp/manifest.json",
+    "serve.json": "/landscapeapp/serve.json",
+    "static/js/2.0ccf6b53.chunk.js.LICENSE.txt": "/landscapeapp/static/js/2.0ccf6b53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.7002c1c8.js",
+    "static/js/2.0ccf6b53.chunk.js",
+    "static/js/app.a3f82523.chunk.js"
+  ]
+}
